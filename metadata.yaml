@@ -1,0 +1,45 @@
+_repo: Ihmissyojain-vankina-Seikkailuja-Afrikan-aarniometsissa_64950
+_version: 0.0.1
+alternative_title: In Savage Africa. Finnish
+contributor:
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Cameron, Verney Lovett
+    alias: Cameron, V. L. (Verney Lovett)
+    birthdate: 1844
+    deathdate: 1894
+    gutenberg_agent_id: '8072'
+    url: http://www.gutenberg.org/2009/agents/8072
+    wikipedia: https://en.wikipedia.org/wiki/Verney_Lovett_Cameron
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64950'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcsh 'Slave traders -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Robbery -- Juvenile fiction'
+- !lcsh 'Africa -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Hippopotamidae -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- GITenberg
+title: 'Ihmissyöjäin vankina: Seikkailuja Afrikan aarniometsissä'
+url: http://www.gutenberg.org/ebooks/64950
